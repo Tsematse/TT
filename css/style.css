@@ -1,0 +1,68 @@
+/********TAG SELECTORS*********/
+body{
+background-color: #faf4f4;
+font-family: "Lucida Console", Courier, monospace
+}
+hr{
+border-color:#698474;
+border-style: none;
+border-top-style: dotted ;
+width: 10%;
+border-width:10px;
+}
+h1{
+  color:#e7b2a5;
+}
+h2{
+  color:#e7b2a5;
+}
+h3{
+  color:#e7b2a5;
+}
+caption{
+  color:#e7b2a5;
+}
+/*
+p{
+  color:#323232;
+}
+*/
+a{
+  color:#323232;
+}
+a:visited{
+  color:#323232;
+  }
+a:hover{
+  color:red;
+}
+a:link {
+  text-decoration:none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+img{
+  width: 50%;
+  height: 300px;
+}
+/***********CLASS SELECTORS***********/
+.heading{
+  color: #323232;
+}
+.paragraph{
+  color: Black;
+}
+.picture{
+  border-radius: 100px;
+  height:150px;
+  width:150px;
+}
+.Tsematse{
+  width:10px
+}
